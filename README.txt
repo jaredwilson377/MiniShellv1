@@ -1,6 +1,6 @@
 Our shell by:
-Jared Wilson (wil00352)
-Matthew Jurek (jurek048)
+Jared Wilson 
+Matthew J
 
 
 Design of our shell:
