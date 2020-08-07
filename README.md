@@ -1,7 +1,9 @@
 
 
 Our shell by:
+
 Jared Wilson 
+
 Matthew J
 
 
@@ -19,8 +21,7 @@ There are a few different containers that can be used while using this command.
 
 List of Commands and how they are used:
 
-One compiling and running our shell, it will come up with a prompt. Here you can enter any of the system commands or our builtin
-commands. The built-in commands are as follows - 
+
 
 CD:
 Using the "cd" command, you can surf through your current directory that you are in. This comes in parallel with the ls (system
@@ -46,8 +47,10 @@ process then it will take you back to the first parent. If you are in the parent
 
 
 Pros and Cons of our Shell:
+
 Pros: Easy to use, compiles, runs forever unless exited, does the simple tasks as assigned to us, creates parent and child using
 fork and execvp
+
 Cons: Kind of messy code with functions all over the place, had to free memory before testing a lot, this was a lot of new 
 information for us so it took awhile to figure out.
 
